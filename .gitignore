@@ -1,0 +1,21 @@
+# Ignore dependency directories
+node_modules/
+
+# Ignore lock file
+# Backend dependencies
+backend/node_modules/
+backend/package-lock.json
+backend/dist/
+backend/.env
+backend/.env.*
+backend/coverage/
+backend/.nyc_output/
+
+# Frontend dependencies
+frontend/node_modules/
+frontend/package-lock.json
+frontend/dist/
+frontend/.env
+frontend/.env.*
+frontend/coverage/
+frontend/.nyc_output/
