@@ -1,5 +1,3 @@
-# TechVantage Solutions - Technical Exercise – CloudOps Control Dashboard
-
 ## Background
 
 A junior engineer has built this prototype of a Cloud Operations Dashboard. It currently functions correctly for a small set of mock data, but it was never designed for real-world usage. Your task is to take this starter application and outline, in English, how it should be optimised, hardened and productionised to support at least **10 000 concurrent users over the next 12 months**. You will not be writing code—rather, you will produce a written document explaining the steps, decisions and trade-offs required to make this system reliable, scalable and maintainable.
