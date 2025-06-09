@@ -87,10 +87,3 @@ For reference, the existing repository includes:
 
 ---
 
-## Submission
-
-- Send a single document in PDF that addresses the points above to gabriel@techvantage.co.nz.
-- Your writing should be clear, concise and well-structured. Use headings and bullet points where helpful.
-- There is no need to modify or submit any code. Focus entirely on the design decisions, trade-offs and justifications.
-
-Good luck! We look forward to understanding how you would transform this prototype into a robust, scalable CloudOps control plane for 10 000 users.
